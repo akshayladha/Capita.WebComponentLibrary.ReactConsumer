@@ -1,1 +1,3 @@
-import 'web-components';
+// import 'web-components';
+
+import 'capita-web-components';
